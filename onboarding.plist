@@ -133,7 +133,7 @@
 						</dict>
 						<dict>
 							<key>Type</key>
-							<string>AppMonitor</string>
+							<string>MonitorsDisplay</string>
 						</dict>
 						<dict>
 							<key>Margins</key>
