@@ -64,7 +64,7 @@
 			<key>Images</key>
 			<string>${Resources}/Images</string>
 			<key>Company</key>
-			<string>Numberwang!</string>
+			<string>Société Générale</string>
 		</dict>
 	</dict>
 	<key>Window</key>
@@ -75,7 +75,7 @@
 	<key>Navigation</key>
 	<dict>
 		<key>QuitButtonText</key>
-		<string>Finish!</string>
+		<string>Ready!</string>
 		<key>UserCanQuitIfInstallationIsIncomplete</key>
 		<true/>
 	</dict>
@@ -93,7 +93,7 @@
 							<key>Type</key>
 							<string>Image</string>
 							<key>URL</key>
-							<string>${Images}/Numberwang.jpg</string>
+							<string>${Images}/WelcomeMessage.jpg</string>
 							<key>ShouldFillSpace</key>
 							<true/>
 						</dict>
@@ -180,25 +180,97 @@
 				<key>Type</key>
 				<string>Application</string>
 				<key>Name</key>
-				<string>Microsoft Office</string>
+				<string>Microsoft Outlook</string>
 				<key>DisplayName</key>
-				<string>Microsoft Office</string>
+				<string>Microsoft Outlook</string>
 				<key>Installer</key>
-				<string>Managed</string>
+				<string>System</string>
 				<key>IconURL</key>
-				<string>${AppIcons}/Office.png</string>
+				<string>${AppIcons}/Outlook.png</string>
 			</dict>
 			<dict>
 				<key>Type</key>
 				<string>Application</string>
 				<key>Name</key>
-				<string>Gimp</string>
+				<string>Microsoft Word</string>
 				<key>DisplayName</key>
-				<string>GNU Image Manipulation Editor</string>
+				<string>Microsoft Word</string>
 				<key>Installer</key>
 				<string>System</string>
 				<key>IconURL</key>
-				<string>${AppIcons}/Gimp.png</string>
+				<string>${AppIcons}/Word.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>Microsoft Excel</string>
+				<key>DisplayName</key>
+				<string>Microsoft Excel</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/Excel.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>Microsoft PowerPoint</string>
+				<key>DisplayName</key>
+				<string>Microsoft PowerPoint</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/PowerPoint.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>OneDrive</string>
+				<key>DisplayName</key>
+				<string>OneDrive</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/OneDrive.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>Microsoft Teams</string>
+				<key>DisplayName</key>
+				<string>Microsoft Teams</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/Teams.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>Microsoft OneNote</string>
+				<key>DisplayName</key>
+				<string>Microsoft OneNote</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/OneNote.png</string>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>Application</string>
+				<key>Name</key>
+				<string>DisplayLink Manager</string>
+				<key>DisplayName</key>
+				<string>DisplayLink Manager</string>
+				<key>Installer</key>
+				<string>System</string>
+				<key>IconURL</key>
+				<string>${AppIcons}/DisplayLinkManager.png</string>
 			</dict>
 			<dict>
 				<key>Type</key>
@@ -216,7 +288,7 @@
 				<key>Type</key>
 				<string>Application</string>
 				<key>Name</key>
-				<string>Microsoft Defender ATP</string>
+				<string>Microsoft Defender</string>
 				<key>DisplayName</key>
 				<string>Microsoft Defender</string>
 				<key>Installer</key>
@@ -228,25 +300,25 @@
 				<key>Type</key>
 				<string>Application</string>
 				<key>Name</key>
-				<string>Remote Desktop</string>
+				<string>KeePassXC</string>
 				<key>DisplayName</key>
-				<string>Remote Desktop</string>
+				<string>KeePassXC</string>
 				<key>Installer</key>
 				<string>System</string>
 				<key>IconURL</key>
-				<string>${AppIcons}/RemoteDesktop.png</string>
+				<string>${AppIcons}/keepassxc.png</string>
 			</dict>
 			<dict>
 				<key>Type</key>
 				<string>Application</string>
 				<key>Name</key>
-				<string>Visual Studio Code</string>
+				<string>Citrix Workspace</string>
 				<key>DisplayName</key>
-				<string>Visual Studio Code</string>
+				<string>Citrix Workspace</string>
 				<key>Installer</key>
 				<string>System</string>
 				<key>IconURL</key>
-				<string>${AppIcons}/Visualstudiocode.png</string>
+				<string>${AppIcons}/CitrixWorkspace.png</string>
 			</dict>
 			<dict>
 				<key>Type</key>
